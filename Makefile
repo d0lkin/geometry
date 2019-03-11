@@ -1,2 +1,2 @@
 circle: twocirc.c
-	gcc -o twocirc twocirc.c -lm
+	gcc -o twocirc.exe twocirc.c -lm
